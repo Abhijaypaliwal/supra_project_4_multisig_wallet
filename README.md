@@ -53,5 +53,4 @@ The `multiSig` contract is a multisignature wallet that requires confirmation fr
 8. **Validating Input Parameters:**
    - Input parameters in functions are validated to ensure they meet specified conditions.
 
-### Note:
-This contract's security considerations focus on access control, transaction confirmation, and careful handling of ether transfers.
+
