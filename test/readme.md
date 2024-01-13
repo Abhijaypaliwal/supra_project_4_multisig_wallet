@@ -1,7 +1,7 @@
 
-# 2. Test Cases:
+# Test Cases:
 
-## 2.1 Test Flow (`testMultiSig`):
+## Test Flow (`testMultiSig`):
 
 1. **Setup:**
    - The `setUp` function initializes a `multiSig` wallet with four owners and a minimum confirmation requirement of 3.
