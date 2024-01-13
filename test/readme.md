@@ -15,7 +15,7 @@
    - Address 12, one of the admins, executes the transaction.
    - 1 Ether successfully transfers from the contract.
 
-### 2.2 Unsuccessful Conditions (`testUnsuccessfulConditions`):
+## Unsuccessful Conditions (`testUnsuccessfulConditions`):
 
 1. **TEST 1: Confirming Transaction by Non-Admin:**
    - Confirms that attempting to confirm a transaction by a non-admin address (address 100) reverts with the message "not called by either of owners."
